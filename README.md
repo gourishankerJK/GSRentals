@@ -6,11 +6,11 @@ This is Full stack project made using react and nodejs.
 
 ## Preview
 
-    ![HomeScreen](./images/HomeScreen.png)
+   ![HomeScreen](./images/HomeScreen.png)
 
-    ![Customers](./images/customers.png)
+   ![Customers](./images/customers.png)
 
-    ![rentals](./images/rentals.png)
+   ![rentals](./images/rentals.png)
 
 ## How to Run the backend
 
