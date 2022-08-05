@@ -65,7 +65,6 @@ The API exposes the following REST routes:
 ```
 /api/genres
 /api/customers
-/api/movies
 /api/rentals
 /api/returns
 /api/users
