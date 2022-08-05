@@ -63,7 +63,6 @@ Navigate to [http://localhost:5000/api/genres](http://localhost:5000/api/genres)
 The API exposes the following REST routes:
 
 ```
-/api/genres
 /api/customers
 /api/rentals
 /api/returns
